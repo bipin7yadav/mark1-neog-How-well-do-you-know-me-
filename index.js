@@ -19,8 +19,7 @@ function quiz(question,answer){
 }
 
 var questions=[{
-    question:"Who is my fvourite superhero? 
-    ",
+    question:"Who is my fvourite superhero? ",
     answer:"superman"
 },{
     question:"Which is my favourite dish? ",
@@ -36,6 +35,10 @@ var questions=[{
 var highscore=[{
     name:"Sachin",
     hc:4
+},
+{
+  name:"Roshan",
+  hc:3
 }]
 
 for (var i=0;i<questions.length;i+=1){
