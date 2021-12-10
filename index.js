@@ -30,6 +30,12 @@ var questions=[{
 },{
     question:"Where am I from? ",
     answer:"Mumbai"
+},{
+    question:"Who is my favourite actor?",
+    answer:"Henry Cavil"
+},{
+    question:"Which is my favourite color?",
+    answer:"Blue"
 }]
 
 var highscore=[{
